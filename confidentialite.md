@@ -4,7 +4,7 @@ title: Politique de confidentialité
 
 # Politique de confidentialité de ionä
 
-**Dernière mise à jour : 21 octobre 2026**
+**Dernière mise à jour : 22 octobre 2026**
 
 ionä (« l'application », « nous ») est une application mobile qui analyse les
 compléments alimentaires et les produits alimentaires à partir de leur
@@ -99,12 +99,18 @@ Nous ne vendons pas tes données. Nous faisons appel aux prestataires suivants :
   fonctions serveur. Hébergement dans l'Union européenne
   lorsque disponible.
 - **RevenueCat, Inc.** (États-Unis) : gestion des abonnements, uniquement si tu
-  souscris à PRO.
+  souscris à PRO. RevenueCat reçoit un identifiant de compte anonyme et le statut
+  de l'abonnement, jamais ton e-mail.
+- **Sentry** (Functional Software, Inc., États-Unis, données hébergées dans l'Union
+  européenne) : rapports de plantage de l'application (modèle d'appareil, version du
+  système et de l'app, suite des actions ayant précédé le plantage). Aucun
+  identifiant de compte ni adresse e-mail n'y est envoyé.
 - **Apple** et **Google** : traitement des achats intégrés, et Apple pour « Se
   connecter avec Apple ».
 - **Open Food Facts** (association à but non lucratif) : à chaque scan, le
   code-barres est envoyé à leur API publique pour récupérer la fiche produit.
-  Aucune donnée personnelle ne leur est transmise.
+  Aucune donnée de compte ne leur est transmise ; comme pour toute requête
+  internet, ton adresse IP leur est visible.
 
 Certains prestataires sont situés hors de l'Union européenne. Les transferts sont
 encadrés par les clauses contractuelles types de la Commission européenne ou un
@@ -120,7 +126,10 @@ historique de scans et tes signalements de produits (photos comprises) sont
 effacés immédiatement, et ton compte d'authentification
 est supprimé dans la foulée. Le cache local de ton téléphone est également vidé.
 
-Des journaux techniques peuvent subsister jusqu'à 30 jours à des fins de sécurité.
+Des journaux techniques (rapports de plantage) peuvent subsister jusqu'à 90 jours.
+Les données d'abonnement chez RevenueCat et les reçus d'achat chez Apple ou Google
+sont conservés selon leurs propres durées (obligations comptables) ; nous n'y
+avons pas accès au-delà du statut de ton abonnement.
 
 ---
 
@@ -129,7 +138,8 @@ Des journaux techniques peuvent subsister jusqu'à 30 jours à des fins de sécu
 Conformément au RGPD, tu disposes des droits d'accès, de rectification,
 d'effacement, de limitation, d'opposition et de portabilité.
 
-- **Rectification** : modifie ton profil depuis l'application.
+- **Rectification** : modifie ton profil sportif depuis l'application ; pour les
+  données de compte (nom, e-mail, âge, téléphone), écris-nous.
 - **Effacement** : supprime ton compte depuis Profil → Supprimer mon compte, ou
   écris-nous.
 - **Autres demandes** : contacte **contact.ionascan@gmail.com**. Nous répondons sous
@@ -143,14 +153,17 @@ Tu peux aussi introduire une réclamation auprès de la CNIL (www.cnil.fr).
 
 Les échanges sont chiffrés (HTTPS). L'accès à tes données est restreint par des
 règles de sécurité Firestore et Cloud Storage : seul ton compte peut lire et
-écrire tes données. Les photos de signalement ne sont pas publiques.
+écrire tes données. Les photos de signalement ne sont pas publiques ; seul
+l'éditeur y accède, pour traiter ton signalement, et les copies de travail sont
+supprimées une fois le produit ajouté au catalogue.
 
 ---
 
 ## 8. Enfants
 
-ionä n'est pas destinée aux personnes de moins de 15 ans. Nous ne collectons pas
-sciemment de données concernant des mineurs de cet âge.
+ionä est réservée aux personnes de 16 ans et plus : l'inscription demande ton âge
+et refuse les âges inférieurs. Si tu penses qu'un mineur de moins de 16 ans a
+créé un compte, écris-nous et nous le supprimerons.
 
 ---
 

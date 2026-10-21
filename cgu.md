@@ -4,7 +4,7 @@ title: Conditions générales d'utilisation
 
 # Conditions générales d'utilisation de ionä
 
-**Dernière mise à jour : 21 octobre 2026**
+**Dernière mise à jour : 22 octobre 2026**
 
 En créant un compte et en utilisant l'application ionä, tu acceptes les présentes
 conditions. Si tu n'es pas d'accord, n'utilise pas l'application.
@@ -39,7 +39,7 @@ particulier pour les allergènes.
 
 ## 3. Compte
 
-Tu dois avoir au moins 15 ans pour créer un compte. Tu es responsable de
+Tu dois avoir au moins 16 ans pour créer un compte. Tu es responsable de
 l'exactitude des informations fournies et de la confidentialité de tes
 identifiants. Toute activité réalisée depuis ton compte est réputée effectuée par
 toi.
