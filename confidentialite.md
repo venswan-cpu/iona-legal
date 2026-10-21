@@ -4,11 +4,11 @@ title: Politique de confidentialité
 
 # Politique de confidentialité de ionä
 
-**Dernière mise à jour : 5 septembre 2026**
+**Dernière mise à jour : 15 octobre 2026**
 
-ionä (« l'application », « nous ») est une application mobile qui analyse la
-qualité nutritionnelle des produits alimentaires à partir de leur code-barres et
-personnalise le résultat selon ton profil sportif.
+ionä (« l'application », « nous ») est une application mobile qui analyse les
+compléments alimentaires et les produits alimentaires à partir de leur
+code-barres, et personnalise le résultat selon ton profil sportif.
 
 Cette politique explique quelles données nous traitons, pourquoi, et quels sont
 tes droits.
@@ -41,22 +41,35 @@ Pour personnaliser les analyses : sport pratiqué, objectif, niveau, fréquence
 d'entraînement, et facultativement poids et taille.
 
 ### 2.3 Historique de scans
-Pour chaque produit scanné : nom du produit, marque, score calculé et date. Ces
+Pour chaque produit scanné : nom du produit, marque, score calculé (ou catégorie
+pour un complément) et date. Ces
 informations sont enregistrées sur nos serveurs (rattachées à ton compte) et
 mises en cache sur ton téléphone pour la consultation hors ligne (50 derniers
 scans).
 
 ### 2.4 Caméra
-L'application accède à la caméra **uniquement pour lire les codes-barres**.
-Aucune photo n'est enregistrée ni transmise. Le flux vidéo n'est jamais stocké.
+L'application accède à la caméra pour lire les codes-barres. Le flux vidéo du
+scan n'est jamais enregistré ni transmis.
 
-### 2.5 Achats
+La caméra sert aussi à prendre des photos **uniquement si tu choisis de signaler
+un produit absent** de notre base (voir 2.5). Aucune photo n'est prise ni envoyée
+sans action de ta part.
+
+### 2.5 Signalement de produits
+Quand un produit scanné n'est pas dans notre base, tu peux nous le signaler. Nous
+recevons alors : le code-barres, une ou deux photos du produit (face avant,
+composition) que tu prends toi-même, et, si tu les remplis, le nom du produit et
+un commentaire. Ces informations sont rattachées à ton compte et servent
+uniquement à ajouter le produit à notre catalogue. Évite de photographier autre
+chose que l'emballage du produit.
+
+### 2.6 Achats
 Si tu souscris à ionä PRO, la gestion de l'abonnement est assurée par RevenueCat
 et par la boutique applicative (App Store ou Google Play). Nous recevons le
 statut de l'abonnement (actif ou non) et un identifiant applicatif. Nous ne
 recevons jamais ton numéro de carte bancaire.
 
-### 2.6 Données techniques
+### 2.7 Données techniques
 Données minimales nécessaires au fonctionnement (identifiant de session,
 journaux d'erreur). Nous n'utilisons pas de traceurs publicitaires et ne
 diffusons pas de publicité.
@@ -70,6 +83,7 @@ diffusons pas de publicité.
 | Créer et gérer ton compte | Exécution du contrat |
 | Personnaliser les analyses selon ton profil | Exécution du contrat |
 | Conserver ton historique de scans | Exécution du contrat |
+| Traiter tes signalements de produits | Intérêt légitime (enrichir le catalogue) |
 | Gérer l'abonnement PRO | Exécution du contrat |
 | Corriger les bugs et sécuriser le service | Intérêt légitime |
 | Répondre à tes demandes | Intérêt légitime |
@@ -81,7 +95,8 @@ diffusons pas de publicité.
 Nous ne vendons pas tes données. Nous faisons appel aux prestataires suivants :
 
 - **Google Firebase** (Google Ireland Ltd / Google LLC) : authentification, base
-  de données (Firestore), fonctions serveur. Hébergement dans l'Union européenne
+  de données (Firestore), stockage des photos de signalement (Cloud Storage),
+  fonctions serveur. Hébergement dans l'Union européenne
   lorsque disponible.
 - **RevenueCat, Inc.** (États-Unis) : gestion des abonnements, uniquement si tu
   souscris à PRO.
@@ -100,8 +115,9 @@ mécanisme équivalent.
 ## 5. Durée de conservation
 
 Tes données sont conservées tant que ton compte est actif. Si tu supprimes ton
-compte depuis l'application (Profil → Supprimer mon compte), ton profil et ton
-historique de scans sont effacés immédiatement, et ton compte d'authentification
+compte depuis l'application (Profil → Supprimer mon compte), ton profil, ton
+historique de scans et tes signalements de produits (photos comprises) sont
+effacés immédiatement, et ton compte d'authentification
 est supprimé dans la foulée. Le cache local de ton téléphone est également vidé.
 
 Des journaux techniques peuvent subsister jusqu'à 30 jours à des fins de sécurité.
@@ -126,7 +142,8 @@ Tu peux aussi introduire une réclamation auprès de la CNIL (www.cnil.fr).
 ## 7. Sécurité
 
 Les échanges sont chiffrés (HTTPS). L'accès à tes données est restreint par des
-règles de sécurité Firestore : seul ton compte peut lire et écrire tes données.
+règles de sécurité Firestore et Cloud Storage : seul ton compte peut lire et
+écrire tes données. Les photos de signalement ne sont pas publiques.
 
 ---
 

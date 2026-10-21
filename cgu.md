@@ -4,7 +4,7 @@ title: Conditions générales d'utilisation
 
 # Conditions générales d'utilisation de ionä
 
-**Dernière mise à jour : 5 septembre 2026**
+**Dernière mise à jour : 15 octobre 2026**
 
 En créant un compte et en utilisant l'application ionä, tu acceptes les présentes
 conditions. Si tu n'es pas d'accord, n'utilise pas l'application.
@@ -13,10 +13,11 @@ conditions. Si tu n'es pas d'accord, n'utilise pas l'application.
 
 ## 1. Objet
 
-ionä est une application mobile qui attribue un score de qualité nutritionnelle
-aux produits alimentaires scannés et adapte ce score à ton profil sportif (sport,
-objectif, niveau). Elle propose des alternatives mieux notées lorsque cela est
-possible.
+ionä est une application mobile qui présente la composition des compléments
+alimentaires scannés (actifs, dosages lorsqu'ils sont connus) et attribue un score
+de qualité nutritionnelle aux produits alimentaires, adapté à ton profil sportif
+(sport, objectif, niveau). Elle propose des alternatives mieux notées lorsque cela
+est possible.
 
 ---
 
@@ -24,7 +25,9 @@ possible.
 
 Les scores, analyses et recommandations sont fournis **à titre informatif
 uniquement**. Ils s'appuient notamment sur les données publiques d'Open Food
-Facts, qui peuvent être incomplètes ou erronées.
+Facts et sur les déclarations officielles de compléments alimentaires (Compl'Alim,
+ANSES), qui peuvent être incomplètes ou erronées. Les fiches marquées « fiche
+communautaire, non vérifiée » proviennent uniquement d'Open Food Facts.
 
 ionä ne fournit pas de conseil médical, diététique ou nutritionnel personnalisé.
 Les informations de l'application ne remplacent pas l'avis d'un professionnel de
@@ -72,7 +75,17 @@ Tu t'engages à ne pas :
 
 ---
 
-## 6. Propriété intellectuelle
+## 6. Signalement de produits
+
+Tu peux nous signaler un produit absent de la base, avec des photos. Tu garantis
+que ces photos représentent l'emballage du produit et ne montrent aucune personne
+ni information personnelle. Tu nous autorises à les utiliser, gratuitement, pour
+compléter le catalogue de ionä (lecture de la composition, ajout de la fiche
+produit). Nous ne publions pas tes photos.
+
+---
+
+## 7. Propriété intellectuelle
 
 L'application, sa marque, son interface et son algorithme de scoring sont
 protégés. Les données produits proviennent d'Open Food Facts et sont distribuées
@@ -80,7 +93,7 @@ sous licence Open Database License (ODbL).
 
 ---
 
-## 7. Disponibilité et évolutions
+## 8. Disponibilité et évolutions
 
 Le service est fourni « en l'état ». Nous pouvons le modifier, le suspendre ou
 l'interrompre, ajouter ou retirer des fonctionnalités, sans que cela ouvre droit
@@ -89,7 +102,7 @@ ne garantissons pas une absence d'interruption ou d'erreur.
 
 ---
 
-## 8. Responsabilité
+## 9. Responsabilité
 
 Dans les limites autorisées par la loi, ionä ne saurait être tenue responsable
 des dommages indirects résultant de l'utilisation de l'application, ni des
@@ -98,7 +111,7 @@ n'exclut la responsabilité qui ne peut légalement l'être.
 
 ---
 
-## 9. Résiliation
+## 10. Résiliation
 
 Tu peux cesser d'utiliser ionä et supprimer ton compte à tout moment depuis
 Profil → Supprimer mon compte. Nous pouvons suspendre ou fermer un compte en cas
@@ -106,7 +119,7 @@ de non-respect des présentes conditions.
 
 ---
 
-## 10. Droit applicable
+## 11. Droit applicable
 
 Les présentes conditions sont régies par le droit français. En cas de litige, et
 à défaut de résolution amiable, les tribunaux français sont compétents, sous
@@ -114,6 +127,6 @@ réserve des règles protectrices applicables aux consommateurs.
 
 ---
 
-## 11. Contact
+## 12. Contact
 
 Pour toute question relative à ces conditions : **contact.ionascan@gmail.com**
