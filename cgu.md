@@ -4,7 +4,7 @@ title: Conditions générales d'utilisation
 
 # Conditions générales d'utilisation de ionä
 
-**Dernière mise à jour : 15 octobre 2026**
+**Dernière mise à jour : 21 octobre 2026**
 
 En créant un compte et en utilisant l'application ionä, tu acceptes les présentes
 conditions. Si tu n'es pas d'accord, n'utilise pas l'application.

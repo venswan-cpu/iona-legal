@@ -4,7 +4,7 @@ title: Politique de confidentialité
 
 # Politique de confidentialité de ionä
 
-**Dernière mise à jour : 15 octobre 2026**
+**Dernière mise à jour : 21 octobre 2026**
 
 ionä (« l'application », « nous ») est une application mobile qui analyse les
 compléments alimentaires et les produits alimentaires à partir de leur
